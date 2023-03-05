@@ -1,0 +1,8 @@
+Burger Topping Selection
+Sides Selection
+Drink Size Selection
+Drink Flavor Selection
+Ask for Delivery Address
+Process Transaction
+Auto Text Notify Customer Upon Delivery Arrival
+Reverse Auto Notification Upon Customer Signiture and Delivery Completion
