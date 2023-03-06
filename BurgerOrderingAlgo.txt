@@ -1,8 +1,11 @@
 Burger Topping Selection
 Sides Selection
+  3a. Side Size Selection
 Drink Size Selection
 Drink Flavor Selection
-Ask for Delivery Address
+  6a. Dessert Flavor Selection
+  7a. Dessert Size Selection
+Ask Customer For Delivery Address
 Process Transaction
 Auto Text Notify Customer Upon Delivery Arrival
 Reverse Auto Notification Upon Customer Signiture and Delivery Completion
